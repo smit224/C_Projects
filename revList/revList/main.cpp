@@ -1,3 +1,8 @@
+/**
+This is a practice project
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "revList.h"
